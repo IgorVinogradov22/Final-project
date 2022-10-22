@@ -1,0 +1,5 @@
+C:\Users\Venom\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.AssemblyReference.cache
+C:\Users\Venom\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venom\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfoInputs.cache
+C:\Users\Venom\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfo.cs
+C:\Users\Venom\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.CoreCompileInputs.cache
